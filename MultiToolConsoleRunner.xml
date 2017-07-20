@@ -1,3 +1,3 @@
 <ConsoleCommandContainer Name="MultiTool_ConsoleRunner">
- <ConsoleCommand Value="zm_spawn 20" />
+ <ConsoleCommand Value="cm_missionComplete 1" />
 </ConsoleCommandContainer>
